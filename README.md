@@ -19,8 +19,8 @@
 
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=onedark" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=onedark" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=tokyonight" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=tokyonight" />
 	<br />
 	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
 		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website" />
