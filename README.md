@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on more open-source projects
 - 📞 Get on touch:
 	- [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/ziadg3fr)
+	- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziad-gaafar-096a381a0/)
 
 
 ## ⚡ Technologies
