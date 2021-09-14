@@ -23,10 +23,10 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=tokyonight" />
 	<br />
 	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website&theme=tokyonight" />
 	</a>
 	<a href="https://github.com/ziadgaafar/ecommerce-shop" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop&theme=tokyonight />
 	</a>
 </div>
 
