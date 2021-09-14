@@ -19,14 +19,14 @@
 
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&bg_color=#5eb1bf" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&bg_color=#5eb1bf" />
 	<br />
 	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website&bg_color=#5eb1bf" />
 	</a>
 	<a href="https://github.com/ziadgaafar/ecommerce-shop" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop&bg_color=#5eb1bf" />
 	</a>
 </div>
 
