@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/ziadgaafar/ziadgaafar/main/header.png "Header")](https://ziadgaafar.vercel.app/)
+[![Ziad Gaafar](https://raw.githubusercontent.com/ziadgaafar/ziadgaafar/main/header.png "Header")](https://ziadgaafar.vercel.app/)
 
 ## ⚡ Technologies
 
