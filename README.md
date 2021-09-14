@@ -1,4 +1,4 @@
-<a href="https://ziadgaafar.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/ziadgaafar/ziadgaafar/main/header.png" alt="Ziad Gaafar" /></a>
+[![Header](https://raw.githubusercontent.com/ziadgaafar/ziadgaafar/main/header.png? "Ziad Gaafar")](https://ziadgaafar.vercel.app)
 
 ## ⚡ Technologies
 
