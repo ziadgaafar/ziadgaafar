@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-## 📊 Github Status
+## 📈 Github Status
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
