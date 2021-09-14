@@ -21,11 +21,13 @@
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=onedark" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=onedark" />
-
 	<br />
-
-	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website)](https://github.com/ziadgaafar/movies-website)
-	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop)](https://github.com/ziadgaafar/ecommerce-shop)
+	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website" />
+	</a>
+	<a href="https://github.com/ziadgaafar/ecommerce-shop" target="_blank">
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop" />
+	</a>
 </div>
 
 
