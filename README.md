@@ -19,7 +19,7 @@
 
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&bg_color=#5eb1bf" />
+	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&bg_color=5eb1bf" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&bg_color=#5eb1bf" />
 	<br />
 	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
