@@ -18,8 +18,11 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=onedark)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website)](https://github.com/ziadgaafar/movies-website)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop)](https://github.com/ziadgaafar/ecommerce-shop)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=onedark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=onedark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=onedark)
 
 
 <!--
