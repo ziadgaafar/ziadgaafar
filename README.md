@@ -3,7 +3,7 @@
 
 - 🔍 I’m currently looking for job
 - 👯 I’m looking to collaborate on more open-source projects
-- 📞 Get on touch:
+- 📫 How to reach me:
 	- [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/ziadg3fr)
 	- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziad-gaafar-096a381a0/)
 
