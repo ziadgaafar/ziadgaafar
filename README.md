@@ -17,11 +17,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=onedark)
+<p align="center">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&theme=onedark)
 <br />
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website)](https://github.com/ziadgaafar/movies-website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop)](https://github.com/ziadgaafar/ecommerce-shop)
+</p>
 
 
 <!--
