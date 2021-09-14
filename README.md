@@ -20,13 +20,13 @@
 
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&bg_color=#5eb1bf" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
 	<br />
 	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website&bg_color=#5eb1bf" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
 	</a>
 	<a href="https://github.com/ziadgaafar/ecommerce-shop" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop&bg_color=#5eb1bf" />
+		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
 	</a>
 </div>
 
