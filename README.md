@@ -7,6 +7,7 @@
 ![HTML](https://img.shields.io/badge/React-Expert-61DAFB)
 ![HTML](https://img.shields.io/badge/NodeJs-Expert-74AB64)
 ![HTML](https://img.shields.io/badge/MongoDB-Intermediate-559134)
+
 Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanced web development. Able to effectively self manage during independent projects, as well as collaborate in a team setting.
 
 - 🔭 Bachelor's degree in **Computer Science**
