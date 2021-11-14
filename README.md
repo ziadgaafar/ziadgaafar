@@ -1,41 +1,27 @@
-[![Header](https://raw.githubusercontent.com/ziadgaafar/ziadgaafar/main/header.png? "Ziad Gaafar")](https://ziadgaafar.vercel.app)
+# Hello, I'm Ziad Gaafar 👋
 
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
+![HTML](https://img.shields.io/badge/React-Expert-61DAFB)
+![HTML](https://img.shields.io/badge/NodeJs-Expert-74AB64)
+![HTML](https://img.shields.io/badge/MongoDB-Intermediate-559134)
+Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanced web development. Able to effectively self manage during independent projects, as well as collaborate in a team setting.
 
-- 🔍 I’m currently looking for job
-- 👯 I’m looking to collaborate on more open-source projects
-- 📫 How to reach me:
-	- [![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://facebook.com/ziadg3fr)
-	- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ziad-gaafar-096a381a0/)
+- 🔭 Bachelor's degree in **Computer Science**
+- 🌱 I’m currently learning **GraphQL** and **React-Native**
+- ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`
+- 👯 I’m looking to collaborate on **Open Source** projects
+- 💬 I'm mostly active within the **React**, **Next.js** and **Node.js** communities
 
+### 📬 Get in Touch
 
-## ⚡ Technologies
+- GitHub: [https://github.com/ziadgaafar][github]
+- LinkedIn: [https://github.com/ziadgaafar][linkedin]
+- Site: [https://ziadgaafar.vercel.app/][site]
+- E-mail: ziadgaafar@protonmail.com
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-NodeJs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![NextJs](https://img.shields.io/badge/-NextJs-black?style=flat-square&logo=next.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-1769aa?style=flat-square&logo=material-ui)
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=flat-square&logo=mongodb)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+### 📚 Looking for my Resume? E-Mail me!
 
-
-## 📈 Github Status
-
-<div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadgaafar&layout=compact&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
-	<br />
-	<a href="https://github.com/ziadgaafar/movies-website" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=movies-website&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
-	</a>
-	<a href="https://github.com/ziadgaafar/ecommerce-shop" target="_blank">
-		<img src="https://github-readme-stats.vercel.app/api/pin/?username=ziadgaafar&repo=ecommerce-shop&bg_color=5eb1bf&title_color=ffffff&text_color=ffffff&icon_color=0A2239" />
-	</a>
-</div>
-
+![Ziad Gaafar's Github Stats](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&hide_border=true)
