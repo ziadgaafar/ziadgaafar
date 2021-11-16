@@ -18,9 +18,8 @@ Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanc
 
 ### 📬 Get in Touch
 
-- GitHub: https://github.com/ziadgaafar
 - LinkedIn: https://github.com/ziadgaafar
-- Site: https://ziadgaafar.vercel.app/
+- Peersonal Website: https://ziadgaafar.vercel.app/
 - E-mail: ziadgaafar@protonmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
