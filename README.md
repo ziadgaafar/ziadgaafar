@@ -11,7 +11,7 @@
 Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanced web development. Able to effectively self manage during independent projects, as well as collaborate in a team setting.
 
 - 🔭 Bachelor's degree in **Computer Science**
-- 🌱 I’m currently learning **GraphQL** and **React-Native**
+- 🌱 I’m currently learning **Solidity**
 - ⚙️ Mastering: `.html`,`.css`,`.js`,`.ts`
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 💬 I'm mostly active within the **React**, **Next.js** and **Node.js** communities
@@ -19,7 +19,7 @@ Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanc
 ### 📬 Get in Touch
 
 - LinkedIn: https://github.com/ziadgaafar
-- Peersonal Website: https://ziadgaafar.vercel.app/
+- Personal Website: https://ziadgaafar.vercel.app/
 - E-mail: ziadgaafar@protonmail.com
 
 ### 📚 Looking for my Resume? E-Mail me!
