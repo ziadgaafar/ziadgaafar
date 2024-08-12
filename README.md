@@ -25,3 +25,4 @@ Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanc
 ### 📚 Looking for my Resume? E-Mail me!
 
 ![Ziad Gaafar's Github Stats!](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&hide_border=true)
+![Ziad Gaafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=transparent)
