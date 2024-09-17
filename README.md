@@ -21,7 +21,3 @@ Self-Taught Fast-Learner Experienced Web Developer adept in all stages of advanc
 - LinkedIn: https://www.linkedin.com/in/ziadgaafar/
 - Personal Website: https://ziadgaafar.vercel.app/
 - E-mail: ziadgaafar@protonmail.com
-
-### 📚 Looking for my Resume? E-Mail me!
-
-![Ziad Gaafar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziadgaafar&show_icons=true&theme=transparent)
